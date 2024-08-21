@@ -38,14 +38,14 @@ To run the application <br>
 ```python app.py```
 
 ## Web Page
-![Uploading 0.png…]()
+
 
 
 ## Text Summarization 
-![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/7ab6c727-8837-4b13-9df0-72f200849b8c)
+![0](https://github.com/user-attachments/assets/a0ee38ce-8d1a-4e3e-8824-24a3ac9d7341)
 
 ## Sentiment Analysis
-![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/c7835813-c542-4d37-90b5-f9d40ed1fc9c)
+![12](https://github.com/user-attachments/assets/885e8ed2-a47e-48e7-8a47-3ccbbd4b91ff)
 
 ## Word Cloud
 ![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/8b8d1d47-f014-4f85-bd5a-2df2042f4a5e)
