@@ -44,7 +44,7 @@ To run the application <br>
 ![Screenshot (1)](https://github.com/user-attachments/assets/9c6424b0-5eb6-4977-bf38-fca1691587f0)
 
 ## Sentiment Analysis
-![12](https://github.com/user-attachments/assets/885e8ed2-a47e-48e7-8a47-3ccbbd4b91ff)
+![Screenshot (14)](https://github.com/user-attachments/assets/ba7bfd15-a683-494f-9aa6-fa3207b280c1)
 
 ## Word Cloud
 ![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/8b8d1d47-f014-4f85-bd5a-2df2042f4a5e)
