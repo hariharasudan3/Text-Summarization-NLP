@@ -47,7 +47,8 @@ To run the application <br>
 ![Screenshot (14)](https://github.com/user-attachments/assets/ba7bfd15-a683-494f-9aa6-fa3207b280c1)
 
 ## Word Cloud
-![Uploading Screenshot (13).png…]()
+![Screenshot (13)](https://github.com/user-attachments/assets/8ac1b2c7-c4dc-436f-b54e-da37aa19b3d5)
+
 
 
 
