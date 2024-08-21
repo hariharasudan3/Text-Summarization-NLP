@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Summarizer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='icons.png') }}">
+</head>
+<body>
+    <header>
+        <h1 style="font-family: Arial;">WELCOME TO TEXT SUMMARIZER</h1>
+    </header>
+    <section class="hero">
+        <!-- <form method="POST" action="/analyze" enctype="multipart/form-data">
+            <textarea name="text" rows="13" cols="50" placeholder="Enter your text here..."></textarea><br>
+            <input type="file" name="pdf_file" accept=".pdf" id="files">
+            <br><br>
+            <select name="action">
+                <option value="summarize">Summarize Text</option>
+                <option value="sentiment">Sentiment Analysis</option>
+                <option value="wordcloud">Word Cloud</option>
+            </select>
+            <input type="submit" value="Perform Action">
+        </form> -->
+        <form method="POST" action="/analyze" enctype="multipart/form-data">
+            <textarea name="text" rows="13" cols="50" placeholder="Enter your text here..."></textarea><br>
+            <div class="box">
+                <input type="file" name="pdf_file" accept=".pdf" id="files">
+                <button type="button" onclick="removeFile()">Remove</button>
+            </div>
+            <br>
+            <select name="action">
+                <option value="summarize">Summarize Text</option>
+                <option value="sentiment">Sentiment Analysis</option>
+                <option value="wordcloud">Word Cloud</option>
+            </select>
+            <input type="submit" value="Perform Action">
+        </form>
+    </section>
+    <footer>
+        <p>&copy; Hari Hara Sudan 2022 Text Summarizer</p>
+    </footer>
+    <script>
+        // Function to remove the selected file
+        function removeFile() {
+            var fileInput = document.getElementById("files");
+            fileInput.value = "";  // Clear the file input value
+        }
+    </script>
+</body>
+</html>
