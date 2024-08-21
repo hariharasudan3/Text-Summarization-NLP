@@ -47,7 +47,8 @@ To run the application <br>
 ![Screenshot (14)](https://github.com/user-attachments/assets/ba7bfd15-a683-494f-9aa6-fa3207b280c1)
 
 ## Word Cloud
-![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/8b8d1d47-f014-4f85-bd5a-2df2042f4a5e)
+![Uploading Screenshot (13).png…]()
+
 
 
 
