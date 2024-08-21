@@ -38,11 +38,10 @@ To run the application <br>
 ```python app.py```
 
 ## Web Page
-
-
+![Screenshot (5)](https://github.com/user-attachments/assets/4eb869f3-c26b-48b2-82fb-ece5bb8debff)
 
 ## Text Summarization 
-![0](https://github.com/user-attachments/assets/a0ee38ce-8d1a-4e3e-8824-24a3ac9d7341)
+![Screenshot (1)](https://github.com/user-attachments/assets/9c6424b0-5eb6-4977-bf38-fca1691587f0)
 
 ## Sentiment Analysis
 ![12](https://github.com/user-attachments/assets/885e8ed2-a47e-48e7-8a47-3ccbbd4b91ff)
