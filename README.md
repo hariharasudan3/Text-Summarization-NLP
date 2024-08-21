@@ -38,7 +38,8 @@ To run the application <br>
 ```python app.py```
 
 ## Web Page
-![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/3263828a-e9d0-42de-a1aa-9f55a40d8443)
+![Uploading 0.png…]()
+
 
 ## Text Summarization 
 ![image](https://github.com/hariharasudan3/Streamlined-Text-Analysis-NLP-for-Document-Summaries/assets/145860861/7ab6c727-8837-4b13-9df0-72f200849b8c)
