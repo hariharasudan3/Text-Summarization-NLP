@@ -49,8 +49,8 @@ To run the application <br>
 ## Word Cloud
 ![Screenshot (13)](https://github.com/user-attachments/assets/8ac1b2c7-c4dc-436f-b54e-da37aa19b3d5)
 
-## 📃 License
 
+## 📃 License
 This project follows the [MIT License](/LICENSE).
 
 
